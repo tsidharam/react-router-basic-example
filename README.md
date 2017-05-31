@@ -21,3 +21,5 @@ npm run build (to bundle all your changes)
 npm start (to start the server)
 
 goto http://localhost:8080
+
+If you navigate to http://localhost:8080/ you should see our Home component, and if you navigate to http://localhost:8080/#/address you should see our Address component.
